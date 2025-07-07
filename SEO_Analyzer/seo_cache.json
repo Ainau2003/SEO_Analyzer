@@ -1,0 +1,386 @@
+{
+  "seo": {
+    "keyword": "seo",
+    "search_volume": 34853,
+    "cpc": 7.24,
+    "competition": "High",
+    "competition_index": 28,
+    "trend": "Stable",
+    "difficulty": 20,
+    "opportunity_score": 114,
+    "tail_type": "Short-tail",
+    "category": "technology",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0
+    }
+  },
+  "seoul city": {
+    "keyword": "seoul city",
+    "search_volume": 25229,
+    "cpc": 4.92,
+    "competition": "High",
+    "competition_index": 76,
+    "trend": "Stable",
+    "difficulty": 64,
+    "opportunity_score": 61,
+    "tail_type": "Mid-tail",
+    "category": "technology",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0
+    }
+  },
+  "seoul national university": {
+    "keyword": "seoul national university",
+    "search_volume": 23480,
+    "cpc": 9.61,
+    "competition": "High",
+    "competition_index": 64,
+    "trend": "Stable",
+    "difficulty": 77,
+    "opportunity_score": 46,
+    "tail_type": "Mid-tail",
+    "category": "technology",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0
+    }
+  },
+  "seo stands for": {
+    "keyword": "seo stands for",
+    "search_volume": 36847,
+    "cpc": 1.2,
+    "competition": "Low",
+    "competition_index": 19,
+    "trend": "Stable",
+    "difficulty": 56,
+    "opportunity_score": 80,
+    "tail_type": "Mid-tail",
+    "category": "technology",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0
+    }
+  },
+  "seoul station karachi": {
+    "keyword": "seoul station karachi",
+    "search_volume": 21294,
+    "cpc": 9.58,
+    "competition": "Medium",
+    "competition_index": 23,
+    "trend": "Stable",
+    "difficulty": 77,
+    "opportunity_score": 44,
+    "tail_type": "Mid-tail",
+    "category": "technology",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0
+    }
+  },
+  "seoul": {
+    "keyword": "seoul",
+    "search_volume": 36678,
+    "cpc": 8.25,
+    "competition": "Medium",
+    "competition_index": 62,
+    "trend": "Stable",
+    "difficulty": 65,
+    "opportunity_score": 71,
+    "tail_type": "Short-tail",
+    "category": "technology",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0
+    }
+  },
+  "seoul 1988 eye cream": {
+    "keyword": "seoul 1988 eye cream",
+    "search_volume": 24031,
+    "cpc": 1.98,
+    "competition": "High",
+    "competition_index": 48,
+    "trend": "Stable",
+    "difficulty": 34,
+    "opportunity_score": 90,
+    "tail_type": "Long-tail",
+    "category": "technology",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0
+    }
+  },
+  "seo studio tools": {
+    "keyword": "seo studio tools",
+    "search_volume": 7066,
+    "cpc": 7.71,
+    "competition": "Low",
+    "competition_index": 23,
+    "trend": "Stable",
+    "difficulty": 76,
+    "opportunity_score": 31,
+    "tail_type": "Mid-tail",
+    "category": "technology",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0
+    }
+  },
+  "seo tools": {
+    "keyword": "seo tools",
+    "search_volume": 15140,
+    "cpc": 5.14,
+    "competition": "High",
+    "competition_index": 60,
+    "trend": "Stable",
+    "difficulty": 73,
+    "opportunity_score": 42,
+    "tail_type": "Mid-tail",
+    "category": "technology",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0
+    }
+  },
+  "seostudio": {
+    "keyword": "seostudio",
+    "search_volume": 1711,
+    "cpc": 4.62,
+    "competition": "Low",
+    "competition_index": 32,
+    "trend": "Stable",
+    "difficulty": 61,
+    "opportunity_score": 40,
+    "tail_type": "Short-tail",
+    "category": "technology",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0
+    }
+  },
+  "gaming pc": {
+    "keyword": "gaming pc",
+    "search_volume": 38799,
+    "cpc": 3.86,
+    "competition": "Low",
+    "competition_index": 63,
+    "trend": "Stable",
+    "difficulty": 60,
+    "opportunity_score": 78,
+    "tail_type": "Mid-tail",
+    "category": "technology",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0
+    }
+  },
+  "gaming": {
+    "keyword": "gaming",
+    "search_volume": 49255,
+    "cpc": 8.01,
+    "competition": "Low",
+    "competition_index": 73,
+    "trend": "Stable",
+    "difficulty": 78,
+    "opportunity_score": 71,
+    "tail_type": "Short-tail",
+    "category": "technology",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0
+    }
+  },
+  "gaming chair": {
+    "keyword": "gaming chair",
+    "search_volume": 7193,
+    "cpc": 8.45,
+    "competition": "Medium",
+    "competition_index": 33,
+    "trend": "Stable",
+    "difficulty": 68,
+    "opportunity_score": 39,
+    "tail_type": "Mid-tail",
+    "category": "technology",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0
+    }
+  },
+  "gaming mobile price in pakistan": {
+    "keyword": "gaming mobile price in pakistan",
+    "search_volume": 74371,
+    "cpc": 0.92,
+    "competition": "Medium",
+    "competition_index": 28,
+    "trend": "Stable",
+    "difficulty": 31,
+    "opportunity_score": 143,
+    "tail_type": "Long-tail",
+    "category": "shopping",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0
+    }
+  },
+  "gaming pc price in pakistan": {
+    "keyword": "gaming pc price in pakistan",
+    "search_volume": 51800,
+    "cpc": 0.75,
+    "competition": "High",
+    "competition_index": 38,
+    "trend": "Stable",
+    "difficulty": 61,
+    "opportunity_score": 90,
+    "tail_type": "Long-tail",
+    "category": "shopping",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0
+    }
+  },
+  "gaming laptop": {
+    "keyword": "gaming laptop",
+    "search_volume": 23771,
+    "cpc": 7.42,
+    "competition": "High",
+    "competition_index": 77,
+    "trend": "Stable",
+    "difficulty": 46,
+    "opportunity_score": 77,
+    "tail_type": "Mid-tail",
+    "category": "technology",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0
+    }
+  },
+  "gaming zone islamabad": {
+    "keyword": "gaming zone islamabad",
+    "search_volume": 20737,
+    "cpc": 8.57,
+    "competition": "Medium",
+    "competition_index": 70,
+    "trend": "Stable",
+    "difficulty": 70,
+    "opportunity_score": 50,
+    "tail_type": "Mid-tail",
+    "category": "technology",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0
+    }
+  },
+  "gaming zone rawalpindi": {
+    "keyword": "gaming zone rawalpindi",
+    "search_volume": 38407,
+    "cpc": 4.35,
+    "competition": "Low",
+    "competition_index": 33,
+    "trend": "Stable",
+    "difficulty": 61,
+    "opportunity_score": 77,
+    "tail_type": "Mid-tail",
+    "category": "technology",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0
+    }
+  },
+  "gaming beast": {
+    "keyword": "gaming beast",
+    "search_volume": 39047,
+    "cpc": 1.88,
+    "competition": "Low",
+    "competition_index": 33,
+    "trend": "Stable",
+    "difficulty": 69,
+    "opportunity_score": 70,
+    "tail_type": "Mid-tail",
+    "category": "technology",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0
+    }
+  },
+  "gaming zone near me": {
+    "keyword": "gaming zone near me",
+    "search_volume": 42481,
+    "cpc": 6.45,
+    "competition": "High",
+    "competition_index": 27,
+    "trend": "Rising",
+    "difficulty": 46,
+    "opportunity_score": 96,
+    "tail_type": "Long-tail",
+    "category": "technology",
+    "serp_analysis": {
+      "competitors": 0,
+      "title_match_count": 0,
+      "top_domains": [],
+      "trust_score": 0
+    }
+  },
+  "seo writing ai": {
+    "keyword": "seo writing ai",
+    "search_volume": 35886,
+    "cpc": 6.11,
+    "competition": "Medium",
+    "competition_index": 45,
+    "trend": "Stable",
+    "difficulty": 41,
+    "opportunity_score": 94,
+    "tail_type": "Mid-tail",
+    "category": "technology",
+    "serp_analysis": {
+      "competitors": 8,
+      "title_match_count": 1,
+      "top_domains": [
+        "forbes.com",
+        "neilpatel.com",
+        "searchenginejournal.com",
+        "semrush.com",
+        "hubspot.com"
+      ],
+      "trust_score": 70
+    }
+  }
+}
